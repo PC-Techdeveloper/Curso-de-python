@@ -1,2 +1,2 @@
-# Curso-de-python
-Aprendepython.es
+# Aprende Python a más profundidad.
+
